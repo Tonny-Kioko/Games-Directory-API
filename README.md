@@ -7,7 +7,7 @@ This is a simple API that lists games stored on a DB. It performs CRUD operation
 
 ## Install requirements
 - Ensure you at the root directory and run 'pip install -r requirements.txt'
-- Incase the database fle s missing after cloning, please find it attached within the submission. Paste it onto the project's root directory. 
+- Incase the database file is missing after cloning, please find it attached within the submission. Paste it onto the project's root directory. 
 
 # Testing the API
 ## Starting the server
